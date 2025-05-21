@@ -8,7 +8,7 @@
 ### Team Members
 1. Swopnil Raj Wagle (Swopnilraj)
 2. Pratik Khatri (Pr2526)
-3. *Member 3 Name (GitHub Username)*
+3. Prajwal Pokharel (Prajwal pdp)
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
